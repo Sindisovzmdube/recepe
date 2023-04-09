@@ -1,1 +1,1 @@
-# recepe
+# recipe
