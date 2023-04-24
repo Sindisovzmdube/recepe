@@ -3,7 +3,7 @@
 
 ### Delicious!
 
- ![Goat Biryani](~/Downloads/student-2/recipe/recipe.jpg)
+ ![Goat Biryani](~/Downloads/student-2/recipe/recipe.jpg?raw=true)
 
 1. This is a recipe for a mild goat biryani for 3 people.
 
