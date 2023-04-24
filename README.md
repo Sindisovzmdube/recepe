@@ -3,6 +3,8 @@
 
 ### Delicious!
 
+ ![Goat Biryani](~/Downloads/student-2/recipe/recipe.jpg)
+
 1. This is a recipe for a mild goat biryani for 3 people.
 
 2. It is made from ingredients that are easily **obtainable in Canada**
